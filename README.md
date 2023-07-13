@@ -30,7 +30,7 @@ Clone the project repository from GitHub: git clone https://github.com/omi-sha/P
 
 Install the required dependencies: pip install -r requirements.txt
 
-Launch the application: python main.py
+Launch the application: python expo_1.ipynb
 
 Access the application through your web browser: http://localhost:8000
 
